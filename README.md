@@ -22,5 +22,6 @@ Belajar kelas Memulai Pemrograman dengan Java. (Progres 100%)
 * Mengerjakan ujian akhir untuk menilai kemahiran diri.
 
   **1 agustus 2025**
-  gagal dicoding
+  lulus dicoding
+
     
